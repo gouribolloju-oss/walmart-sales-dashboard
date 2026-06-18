@@ -4,7 +4,7 @@ Interactive Tableau dashboard analyzing Walmart sales trends, top-performing sto
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Walmart%20dashboard.png)
 
 ## Key Insights
 
